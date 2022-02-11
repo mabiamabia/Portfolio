@@ -1,0 +1,80 @@
+<div class="layout-topbar">
+  <a
+    class="p-link layout-menu-button layout-topbar-button"
+    href="#"
+    (click)="appMain.toggleMenu($event)"
+  >
+    <i class="pi pi-bars"></i>
+  </a>
+
+  <a class="p-link mt-3 layout-topbar-title" routerLink="/">
+    <h2 style="color: var(--text-color)">Lucas Peixoto</h2>
+  </a>
+
+  <a
+    class="p-link layout-topbar-menu-button layout-topbar-button"
+    href="#"
+    (click)="appMain.toggleTopMenu($event)"
+  >
+    <i class="pi pi-ellipsis-v"></i>
+  </a>
+
+  <div
+    class="layout-topbar-menu"
+    [ngClass]="{
+      'layout-topbar-menu-mobile-active': appMain.topMenuActive
+    }"
+  >
+    <h5>Contatos</h5>
+
+    <a
+      class="p-link layout-topbar-button p-1"
+      href="https://www.linkedin.com/in/lucassacramoni/"
+      target="_blank"
+    >
+      <i class="pi pi-linkedin"></i>
+
+      <span class="m-2">Linkedin</span>
+    </a>
+
+    <a
+      class="p-link layout-topbar-button p-1"
+      href="https://www.facebook.com/lucassacramoni/"
+      target="_blank"
+    >
+      <i class="pi pi-facebook"></i>
+
+      <span class="m-2">Facebook</span>
+    </a>
+
+    <a
+      class="p-link layout-topbar-button p-1"
+      href="https://www.instagram.com/lucas.speixoto/"
+      target="_blank"
+    >
+      <i class="pi pi-instagram"></i>
+
+      <span class="m-2">Instagram</span>
+    </a>
+
+    <a
+      class="p-link layout-topbar-button p-1"
+      href="https://github.com/lucasspeixoto"
+      target="_blank"
+    >
+      <i class="pi pi-github"></i>
+
+      <span class="m-2">GitHub</span>
+    </a>
+
+    <a
+      class="p-link layout-topbar-button p-1"
+      href="https://api.whatsapp.com/send?phone=5519982621117&text=Ol%C3%A1%21+Lucas, tudo bem ?&lang=pt_pt"
+      target="_blank"
+    >
+      <i class="pi pi-whatsapp"></i>
+
+      <span class="m-2">WhatsApp</span>
+    </a>
+  </div>
+</div>
