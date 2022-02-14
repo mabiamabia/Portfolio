@@ -13,6 +13,7 @@ import { SharedCommonModule } from './shared/modules/shared-common.module';
 import { AppMenuComponent } from './app.menu.component';
 import { AppMenuitemComponent } from './app.menuitem.component';
 import { MenuService } from './config/services/app.menu.service';
+import { AppConfigComponent } from './app.config.component';
 
 @NgModule({
   imports: [
@@ -28,7 +29,8 @@ import { MenuService } from './config/services/app.menu.service';
     AppComponent,
     AppMainComponent,
     AppMenuComponent,
-    AppMenuitemComponent
+    AppMenuitemComponent,
+    AppConfigComponent
   ],
   providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy },
     ConfigService, MenuService],

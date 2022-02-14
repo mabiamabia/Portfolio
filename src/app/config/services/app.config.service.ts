@@ -14,9 +14,8 @@ providedIn: 'root',
 })
 export class ConfigService {
 
-    /* duvida */
 config: AppConfig =
-JSON.parse(localStorage.getItem('@lspeixoto: config')) || defaultConfig;
+JSON.parse(localStorage.getItem('@pgcosta: config')) || defaultConfig;
 
 private configUpdate = new Subject<AppConfig>();
 
