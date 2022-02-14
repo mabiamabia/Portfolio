@@ -14,6 +14,7 @@ providedIn: 'root',
 })
 export class ConfigService {
 
+    /* duvida */
 config: AppConfig =
 JSON.parse(localStorage.getItem('@lspeixoto: config')) || defaultConfig;
 
