@@ -1,12 +1,12 @@
 export const Formations = [
 	{
-		name: 'Graduação em Engenharia Agrícola',
+		name: 'Graduação em Gestão Ambiental',
 		institution: 'Universidade Estadual de Campinas (Unicamp)',
-		end: '03/2012 - 11/2017',
+		end: '02/2014 - 11/2016',
 	},
 	{
-		name: 'Mestrado em Modelagem Estrutural de vigas de madeira laminada colada armada',
-		institution: 'Universidade Estadual de Campinas (Unicamp)',
-		end: '03/2018 - 02/2020',
+		name: 'Curso Técnico em Analise e Desenvolvimento de Sistemas',
+		institution: 'Colégio Técnico de Campinas da Unicamp (COTUCA)',
+		end: '03/2019',
 	},
 ];

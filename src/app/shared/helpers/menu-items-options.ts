@@ -47,32 +47,20 @@ export const menuItems: MenuItems[] = [
 			{
 				label: 'Linkedin',
 				icon: 'pi pi-linkedin',
-				url: ['https://www.linkedin.com/in/lucassacramoni/'],
-				target: '_blank',
-			},
-			{
-				label: 'Facebook',
-				icon: 'pi pi-facebook',
-				url: ['https://www.facebook.com/lucassacramoni/'],
-				target: '_blank',
-			},
-			{
-				label: 'Instagram',
-				icon: 'pi pi-instagram',
-				url: ['https://www.instagram.com/lucas.speixoto/'],
+				url: ['https://www.linkedin.com/in/prisciladuarte1993/'],
 				target: '_blank',
 			},
 			{
 				label: 'GitHub',
 				icon: 'pi pi-github',
-				url: ['https://github.com/lucasspeixoto'],
+				url: ['https://github.com/prisciladuarte'],
 				target: '_blank',
 			},
 			{
 				label: 'WhatsApp',
 				icon: 'pi pi-whatsapp',
 				url: [
-					'https://api.whatsapp.com/send?phone=5519982621117&text=Ol%C3%A1%21+Lucas, tudo bem ?&lang=pt_pt',
+					'https://api.whatsapp.com/send?phone=5519995017297&text=Ol%C3%A1%21+Priscila, tudo bem ?&lang=pt_pt',
 				],
 				target: '_blank',
 			},

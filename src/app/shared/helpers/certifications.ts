@@ -1,9 +1,9 @@
 export const Certifications = [
 	{
-		name: 'Fundamentos de Flutter: Crie o seu primeiro App',
-		institution: 'Alura',
-		end: '02/2022',
-		url: 'https://cursos.alura.com.br/certificate/099eb373-5f4e-487f-9473-bb332556f770',
+		name: 'Desenvolvedor Fullstack Java',
+		institution: 'Generation Brasil',
+		end: '01/21 - 08/2021',
+		url: '',
 		credential: '099eb373-5f4e-487f-9473-bb332556f770',
 	},
 	{
