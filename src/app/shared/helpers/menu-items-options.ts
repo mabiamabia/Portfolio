@@ -53,7 +53,7 @@ export const menuItems: MenuItems[] = [
 			{
 				label: 'GitHub',
 				icon: 'pi pi-github',
-				url: ['https://github.com/prisciladuarte'],
+				url: ['https://github.com/mabiamabia'],
 				target: '_blank',
 			},
 			{
