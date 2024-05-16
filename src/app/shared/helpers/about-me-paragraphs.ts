@@ -1,8 +1,7 @@
 export const Paragraphs = [
-	'Sou formado em engenharia agrícola pela Universidade Estadual de Campinas (Unicamp), mestre em modelagem estrutural de vigas de madeira laminada colada armada (MLCA).',
-	'Em 2015 tive meu primeiro contato com a programação, onde iniciei aprendendo python enquanto finalizava minha graduação.',
-	'Em 2017 já dominava a linguagem e iniciei uma especialização em mineração de dados com objetivo conhecer um pouco da inteligência artificial.',
-	'No início de 2020 tive minha primeira atuação profissional como contrato, foi como trainee na Stefanini, onde desenvolvi diversas rotinas de automatização de processos para as equipes do  departamento pessoal da empresa. Essas rotinas envolviam disparos em  massa de comunicados via e-mail, geração de relatórios, RPAs entre outros.',
-	'Durante esta experiência como trainee comecei a me especializar no desenvolvimento web, onde acabei me identificando com o desenvolvimento frontEnd, o que me levou a começar estudar angular e posteriormente React.',
-	'Hoje atuo como desenvolvedor no Stefanini labs que tem a missão de apoiar as equipes internas (RH, DP, comercial, etc...) com solução digitais.',
+
+'Hello, World! Meu nome é Priscila Duarte e eu sou uma profissional com uma ampla gama de habilidades técnicas! Tenho experiencia de trabalho, utilizando Java, Python, GraphQL, Javascript, Node.js, React e Angular. Porém, estou sempre disposta a aprender uma nova tecnologia.',
+'Meu objetivo é utilizar a tecnologia para resolver problemas e melhorar o mundo ao meu redor, sempre buscando novas oportunidades de aprendizado. Além disso, possuo fluência em inglês, o que me permite trabalhar com equipes internacionais e compreender a necessidade dos clientes de forma eficaz.',
+'Meu portfólio pode ser encontrado em https://github.com/mabiamabia, onde você pode ver meus conhecimentos técnicos em ação, atraves de projetos maneiros que eu já desenvolvi.',
+'Além da tecnologia, eu também gosto de atividades ao ar livre, como andar de bicicleta, e de assistir filmes sobre viagem espacial, como Planeta dos Macacos e Interestelar. Acredito que a combinação de habilidades técnicas e paixões fora do ambiente de trabalho tornam a vida mais equilibrada e interessante!',
 ];

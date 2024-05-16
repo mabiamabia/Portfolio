@@ -1,5 +1,40 @@
 export const Certifications = [
-	{
+  {
+		name: 'Desenvolvedora de Sistemas',
+		institution: 'ETECAP - Escola Tecnica Conselheiro Antonio Prado',
+		end: '01/22 - 08/2024',
+		url: '',
+		credential: '099eb373-5f4e-487f-9473-bb332556f770',
+	},
+  {
+		name: 'Mandarim',
+		institution: 'Instituto Confucio',
+		end: '01/24 - 12/2024',
+		url: '',
+		credential: '099eb373-5f4e-487f-9473-bb332556f770',
+	},
+  {
+		name: 'Mecatronica',
+		institution: 'COTUCA - Colégio ¨Tecnico da Unicamp',
+		end: '01/23 - 08/2025',
+		url: '',
+		credential: '099eb373-5f4e-487f-9473-bb332556f770',
+	},
+  {
+		name: 'Coreano',
+		institution: 'ETECAP - Escola Tecnica Conselheiro Antonio Prado',
+		end: '01/22 - 08/2024',
+		url: '',
+		credential: '099eb373-5f4e-487f-9473-bb332556f770',
+	},
+  {
+		name: 'Certificação de Ingles TOEFL',
+		institution: 'ETECAP - Escola Tecnica Conselheiro Antonio Prado',
+		end: '01/22 - 08/2024',
+		url: '',
+		credential: '099eb373-5f4e-487f-9473-bb332556f770',
+	},
+  {
 		name: 'Desenvolvedor Fullstack Java',
 		institution: 'Generation Brasil',
 		end: '01/21 - 08/2021',

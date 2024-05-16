@@ -6,6 +6,6 @@ export const Skills = [
 	'Controle de versão: GIT;',
 	"Banco de Dados: Oracle, SQLServer (montagem de query's);",
 	'Em aprendizado: Desenvolvimento Mobile (Dart/Flutter e React Native);',
-	'Inglês: Ótima leitura e escrita, com compreensão e comunicação oral razoáveis;',
+	'Inglês: Ótima compreensão de leitura e conversação, escrita e comunicação oral intermediárias;',
 	'Espanhol: Leitura, escrita, compreensão e comunicação oral razoáveis.',
 ];
