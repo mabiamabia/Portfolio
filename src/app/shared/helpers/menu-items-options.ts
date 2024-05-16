@@ -60,7 +60,7 @@ export const menuItems: MenuItems[] = [
 				label: 'WhatsApp',
 				icon: 'pi pi-whatsapp',
 				url: [
-					'https://api.whatsapp.com/send?phone=5519995017297&text=Ol%C3%A1%21+Priscila, tudo bem ?&lang=pt_pt',
+					'https://api.whatsapp.com/send?phone=5519991989546&text=Ol%C3%A1%21+Priscila, tudo bem ?&lang=pt_pt',
 				],
 				target: '_blank',
 			},
