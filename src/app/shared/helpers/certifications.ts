@@ -30,13 +30,6 @@ export const Certifications = [
 		credential: '',
 	},
   {
-		name: 'Mecatronica',
-		institution: 'COTUCA - Colégio ¨Tecnico da Unicamp',
-		end: '01/23 - 08/2025',
-		url: 'https://cotuca.unicamp.br/',
-		credential: '',
-	},
-  {
 		name: 'Coreano',
 		institution: 'ETECAP - Escola Tecnica Conselheiro Antonio Prado',
 		end: '01/22 - 08/2024',
