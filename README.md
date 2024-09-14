@@ -1,14 +1,20 @@
 # curriculo
 
-https://prisciladuarte.netlify.app/#/
 
-como rodar o projeto:
 
-Instalações:
+[Visite o meu site!](https://prisciladuarte.netlify.app/#/)
+
+
+### Como rodar o projeto:
+
+- Em:
+curriculo\src\app> 
+
+- Instalações:
 npm i
 
-Start:
+- Start:
 npm start
 
-buildar: 
+- buildar: 
 npm run build
