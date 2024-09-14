@@ -11,7 +11,7 @@ export const Experiences = [
 		company: 'Stefanini Brasil',
 		period: '09/2021 - 09/2022',
 		tasks:
-			'Atuação como desenvolvedora fullstack (NestJS, NodeJS, Python, Flask), (Angular + PrimeNg), (React + MaterialUI) em projetos de melhoria de processos internos na Stefanini. Participação em diversos processos de estudo e implementação de novas estruturas e arquiteturasde código para aumentar escalabilidade de projetos e qualidade de código.Os projetos são direcionados para as equipes de recrutamento e seleção, departamento pessoal e comercial.',
+			'Atuação como desenvolvedora fullstack (NestJS, NodeJS, Python, Flask), (Angular + PrimeNg), (React + MaterialUI) em projetos de melhoria de processos internos na Stefanini. Participação em diversos processos de estudo e implementação de novas estruturas e arquiteturas de código para aumentar escalabilidade de projetos e qualidade de código. Os projetos são direcionados para as equipes de recrutamento e seleção, departamento pessoal e comercial.',
 	},
 	{
 		position: 'Instrutora de Informática',
