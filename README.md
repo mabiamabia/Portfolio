@@ -39,7 +39,7 @@ Aplicação web desenvolvida em **Angular 13**, com suporte a **TypeScript**, **
 
 ## Licença
 
-Este projeto está sob a licença [MIT](LICENSE).
+Este projeto está sob a licença MIT.
 
 [Visite o meu site!](https://prisciladuarte.netlify.app/#/)
 
@@ -47,15 +47,16 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 1. Navegue até a pasta do projeto:
 
-   ```bash
    cd curriculo/src/app
-   Instale as dependências:
-   bash
+
+2. Instale as dependências:
+
    npm i
-   Inicie o servidor de desenvolvimento:
-   bash
+
+3. Inicie o servidor de desenvolvimento:
+
    npm start
-   Para gerar o build de produção:
-   bash
+
+4. Para gerar o build de produção:
+
    npm run build
-   ```
