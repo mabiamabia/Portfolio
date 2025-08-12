@@ -6,7 +6,7 @@ export const Certifications = [
 		institution: 'ETECAP - Escola Tecnica Conselheiro Antonio Prado',
 		end: '01/22 - 08/2024',
 		url: 'https://www.cps.sp.gov.br/etec/',
-		credential: '',
+		credential: '(SED): 024121779606',
 	},
   {
 		name: 'Github Foundations',
