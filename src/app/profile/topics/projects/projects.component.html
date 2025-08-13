@@ -1,13 +1,39 @@
-<div id="home" class="surface-0 overflow-hidden">
-	<div id="features" class="px-2 m-1">
-		<div class="grid justify-content-center">
-			<div class="col-12 text-center m-2">
-				<img
-					class="w-15rem sm:w-20rem md:w-30rem lg:w-50rem"
-					src="assets/images/coming-soon.svg"
-				/>
-				<h3>Em Montagem...</h3>
-			</div>
-		</div>
-	</div>
+<div class="surface-0 overflow-hidden">
+  <div class="px-2 m-1">
+    <div class="grid justify-content-center">
+      <div class="col-12 text-center m-2">
+        <h2 class="text-900 text-primary font-normal mb-1">Projetos</h2>
+      </div>
+
+      <div class="col-12 project-card" *ngFor="let project of projects">
+        <div>
+          <h3 class="project-title">{{ project.title }}</h3>
+          <p class="project-description">{{ project.description }}</p>
+          <p class="project-technologies">
+            Tecnologias: {{ project.technologies.join(", ") }}
+          </p>
+
+          <div>
+            <a
+              [href]="project.projectUrl"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="project-link"
+            >
+              Visitar Projeto
+            </a>
+            <a
+              *ngIf="project.githubUrl"
+              [href]="project.githubUrl"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="project-link"
+            >
+              GitHub
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

@@ -8,7 +8,9 @@ import { ExperiencesComponent } from './profile/topics/experiences/experiences.c
 import { FormationsComponent } from './profile/topics/formations/formations.component';
 import { SkillsComponent } from './profile/topics/skills/skills.component';
 
-/* import { PersonalComponent } from './profile/personal/personal.component';
+import { Projects, ProjectsComponent } from './profile/topics/projects/projects.component';
+
+/*
 import { AboutMeComponent } from './profile/topics/about-me/about-me.component';
 import { ExperiencesComponent } from './profile/topics/experiences/experiences.component';
 import { FormationsComponent } from './profile/topics/formations/formations.component';
@@ -52,6 +54,11 @@ import { CoursesComponent } from './profile/topics/courses/courses.component';
               path: 'cv/competencias',
 
               component: SkillsComponent,
+            },
+            {
+              path: 'cv/projetos',
+
+              component: ProjectsComponent,
             },
           ],
         },

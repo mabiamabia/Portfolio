@@ -11,6 +11,7 @@ import { CertificationsComponent } from '@app/profile/topics/certifications/cert
 import { ExperiencesComponent } from '@app/profile/topics/experiences/experiences.component';
 import { FormationsComponent } from '@app/profile/topics/formations/formations.component';
 import { SkillsComponent } from '@app/profile/topics/skills/skills.component';
+import { ProjectsComponent } from '@app/profile/topics/projects/projects.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { SkillsComponent } from '@app/profile/topics/skills/skills.component';
     ExperiencesComponent,
     CertificationsComponent,
     FormationsComponent,
-    SkillsComponent
+    SkillsComponent,
+    ProjectsComponent,
   ],
   imports: [
     CommonModule,
@@ -37,7 +39,8 @@ import { SkillsComponent } from '@app/profile/topics/skills/skills.component';
     ExperiencesComponent,
     CertificationsComponent,
     FormationsComponent,
-    SkillsComponent
+    SkillsComponent,
+    ProjectsComponent,
   ],
 })
 export class SharedCommonModule {}
