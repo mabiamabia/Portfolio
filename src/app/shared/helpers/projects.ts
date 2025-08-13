@@ -42,7 +42,7 @@ export const projectsMock: Projects[] = [
   },
   {
     id: 5,
-    title: "Simulação de Site de Notícias",
+    title: "Em construção: Simulação de Site de Notícias",
     description: "Projeto que simula um site de notícias com recursos interativos.",
     technologies: ["React", "Typescript"],
     projectUrl: "https://github.com/mabiamabia/Clone-g1",
