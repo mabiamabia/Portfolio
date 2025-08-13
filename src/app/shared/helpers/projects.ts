@@ -8,7 +8,6 @@ export interface Projects {
 }
 
 export const projectsMock: Projects[] = [
-
   {
     id: 1,
     title: "Spotplay API",
@@ -33,7 +32,7 @@ export const projectsMock: Projects[] = [
     projectUrl: "https://prisciladuarte.netlify.app/#/",
     githubUrl: "https://github.com/mabiamabia/Portfolio"
   },
-    {
+  {
     id: 4,
     title: "E-commerce Vem da Terra",
     description: "Aplicativo de comércio eletrônico com carrinho de compras e integração de pagamento.",
@@ -41,4 +40,12 @@ export const projectsMock: Projects[] = [
     projectUrl: "https://vemdaterrabrasil.netlify.app/#/inicio",
     githubUrl: "https://github.com/mabiamabia/E-commerce-Vem-da-Terra"
   },
+  {
+    id: 5,
+    title: "Simulação de Site de Notícias",
+    description: "Projeto que simula um site de notícias com recursos interativos.",
+    technologies: ["React", "Typescript"],
+    projectUrl: "https://github.com/mabiamabia/Clone-g1",
+    githubUrl: "https://github.com/mabiamabia/Clone-g1"
+  }
 ];
